@@ -36,4 +36,4 @@ Qual a operação desejada? '''))
     if continuar == 'N':
         break
 print(f'{cores["vermelho"]}Infelizmente acabou! :({cores["limpar"]}\n{cores["verde"]}Espero que tenha gostado :D{cores["limpar"]}')
-print('Olá')    
+    
